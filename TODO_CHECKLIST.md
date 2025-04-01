@@ -5,7 +5,7 @@
 ### Project Setup
 - [x] Create monorepo structure
 - [x] Set up Next.js frontend
-- [ ] Set up NestJS backend
+- [x] Set up NestJS backend
 - [ ] Configure Vercel deployment
 
 ### Authentication
